@@ -1,1 +1,1 @@
-# Seguridad-Inform-tica
+# Seguridad-Informatica
